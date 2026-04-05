@@ -5,7 +5,7 @@ from src.embedding import get_embedding
 from src.search import build_index, search
 from PIL import Image
 
-'''
+
 # load dataset
 folder = "data/original"
 images = [os.path.join(folder, f) for f in os.listdir(folder)]
@@ -65,3 +65,4 @@ elif distances[0][1] < 100:
     print("SOME SIMILARITY")
 else:
     print("DIFFERENT DESIGN")
+'''
