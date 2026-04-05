@@ -1,5 +1,0 @@
-flask
-numpy
-faiss-cpu
-pillow
-open-clip-torch
